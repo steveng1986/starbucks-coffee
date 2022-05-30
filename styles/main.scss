@@ -102,4 +102,69 @@ body {
     padding-right: 8px;
 }
 
+.banner-ppal {
+    color: #1e3932;
+    font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
+    display: flex;
+}
+
+.banner-ppal-lemon {
+   background-color: #9bf5b4; 
+}
+
+.banner-ppal--pink {
+    background-color: #fa91aa;
+}
+
+.banner-ppal--green {
+    background: #d5eae3;
+}
+
+.banner-container-txt {
+    text-align: center;
+    margin: auto;
+    padding: 32px 100px;
+}
+
+.banner-txt {
+    font-size: 19px;
+    margin: 0 0 30px;
+    line-height: 1.5;
+}
+
+.banner-txt--letter {
+    font-size: 24px;
+}
+
+.banner-txt--space {
+    font-size: 24px;
+    padding: 0px 40px;
+
+
+
+}
+
+.banner-title-secundario {
+    font-size: 24px;
+    line-height: 1.5;
+    margin: 0 auto 24px;
+}
+
+.banner-title-primary {
+    font-size: 50px;
+    letter-spacing: 2px;
+}
+
+.banner-img-auto {
+    width: 720px;
+    height: 280px;
+}
+
+.banner-container-img-helado-limonada {
+    width: 720px;
+    height: 625px;
+}
+
+
+
 
